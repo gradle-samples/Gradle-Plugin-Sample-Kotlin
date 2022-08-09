@@ -4,6 +4,7 @@ NOTE: You can open this sample inside an IDE using the [IntelliJ native importer
 
 This sample shows how to build a Gradle plugin in the Java language.
 
+greeting-plugin/build.gradle.kts:
 ```kotlin
 plugins {
     // Apply the Java Gradle plugin development plugin to add support for developing Gradle plugins
